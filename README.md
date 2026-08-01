@@ -54,12 +54,6 @@ To compile the package, navigate to the root directory and run:
 swift build -c release
 ```
 
-### Run Strip Timer
-Start the compiled executable:
-```bash
-./.build/release/StripTimer
-```
-
 ---
 
 ## 🎮 How to Use
